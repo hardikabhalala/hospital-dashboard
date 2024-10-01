@@ -21,6 +21,7 @@ Key learnings
 
 With this dashboard, healthcare organizations can reduce unnecessary spending, improve operational efficiency, and ultimately enhance patient 
 
-outcomes.https://github.com/hardikabhalala/hospital-dashboard/issues/1#issue-2558533376
+![Screenshot (888)](https://github.com/user-attachments/assets/5c17f1f1-ec70-416a-bf6d-d2f5b33320a0)
+
 
 
