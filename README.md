@@ -19,4 +19,8 @@ Key learnings
 •	Bookmark and page navigation
 •	Healthcare KPIs
 
-With this dashboard, healthcare organizations can reduce unnecessary spending, improve operational efficiency, and ultimately enhance patient outcomes.
+With this dashboard, healthcare organizations can reduce unnecessary spending, improve operational efficiency, and ultimately enhance patient 
+
+outcomes.https://github.com/hardikabhalala/hospital-dashboard/issues/1#issue-2558533376
+
+
